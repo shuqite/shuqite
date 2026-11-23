@@ -1,2 +1,7 @@
-## dumbass developer
+### dumbass developer
 ![konata](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f9bbe42-aec5-4bc1-ab02-5ce4f92a2882/d7fa5f2-3270426a-f7bc-42c0-8028-b2c298fa1460.jpg/v1/fill/w_1024,h_641,q_75,strp/konata_izumi_meme_by_interacted_d7fa5f2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQxIiwicGF0aCI6IlwvZlwvMmY5YmJlNDItYWVjNS00YmMxLWFiMDItNWNlNGY5MmEyODgyXC9kN2ZhNWYyLTMyNzA0MjZhLWY3YmMtNDJjMC04MDI4LWIyYzI5OGZhMTQ2MC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6bpuneoob0O7o8UPZuTzM7EOJsCTfiEODmU4yJmojEA)
+
+Really I am:
+- Russian student (EN/RU)
+- Python fun
+- in love with LLMs and Arch Linux
