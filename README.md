@@ -3,5 +3,5 @@
 
 Really I am:
 - Russian student (EN/RU)
-- Python fun
+- Python fan
 - in love with LLMs and Arch Linux
